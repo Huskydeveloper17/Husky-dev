@@ -19,3 +19,14 @@ h1 {
 body {
     background-color: rgb(223, 171, 0);
 }
+#docs {
+   background-color: rgb(255, 196, 0);
+    width: 90px;
+    height: 50px;
+    border-radius: 20px; 
+}
+#docs:focus
+#docs:active,
+#docs:focus-visible {
+    outline: none !important;
+}
