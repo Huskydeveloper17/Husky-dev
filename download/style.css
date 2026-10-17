@@ -1,0 +1,11 @@
+h1 {
+    font-family: sans-serif;
+}
+body {
+    background-color: rgb(255, 196, 0);
+}
+#huskload {
+    background-color: rgb(199, 152, 0);
+    width: 150px;
+    height: 50px;
+}

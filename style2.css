@@ -1,0 +1,17 @@
+h1 {
+    font-family: sans-serif;
+}
+#husky {
+    height: 80px;
+    cursor: not-allowed;
+}
+#home {
+    cursor: pointer;
+    width: 90px;
+    height: 50px;
+}
+.text {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+}
