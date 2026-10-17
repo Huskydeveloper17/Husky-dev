@@ -9,3 +9,11 @@ body {
     width: 150px;
     height: 50px;
 }
+#egg {
+    background-color: orange;
+}
+.link {
+    color: black;
+    font-size: 30px;
+    font-family: sans-serif;
+}

@@ -3,7 +3,6 @@ h1 {
 }
 #box {
     background-color: rgb(255, 196, 0);
-    height: 50px;
 }
 #download {
    background-color: rgb(255, 196, 0);
@@ -29,4 +28,18 @@ body {
 #docs:active,
 #docs:focus-visible {
     outline: none !important;
+}
+#report {
+   background-color: rgb(255, 196, 0);
+    width: 90px;
+    height: 50px;
+    border-radius: 20px; 
+}
+#report:focus
+#report:active,
+#report:focus-visible {
+    outline: none !important;
+}
+a {
+    color: black;
 }
