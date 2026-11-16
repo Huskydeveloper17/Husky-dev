@@ -1,0 +1,18 @@
+h1 {
+    font-family: sans-serif;
+}
+button {
+    outline-color: transparent;
+    outline-style: solid;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+}
+#entry {
+    background-color: aqua;
+    width: 200px;
+    height: 190px;
+}
+p {
+    font-family: sans-serif;
+}
