@@ -8,6 +8,7 @@ function submit() {
         localStorage.removeItem('name');
         localStorage.removeItem('country');
         localStorage.removeItem('address');
+        localStorage.removeItem('support');
         alert("Deleted");
         window.location.href = "../index.html";
     }
