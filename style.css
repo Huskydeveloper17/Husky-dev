@@ -68,16 +68,16 @@ p {
 #log:focus-visible {
     outline: none !important;
 }
-#danger:focus
-#danger:active,
-#danger:focus-visible {
-    outline: none !important;
-}
 #danger {
     background-color: red;
     width: 90px;
     height: 50px;
     border-radius: 20px;
+}
+#danger:focus
+#danger:active,
+#danger:focus-visible {
+    outline: none !important;
 }
 #support {
     width: 100px;
@@ -85,4 +85,15 @@ p {
     height: 50px;
     border-color: darkred;
     border-radius: 20px;
+}
+#tutor {
+   background-color: rgb(255, 196, 0);
+    width: 90px;
+    height: 50px;
+    border-radius: 20px; 
+}
+#tutor:focus
+#tutor:active,
+#tutor:focus-visible {
+    outline: none !important;
 }
